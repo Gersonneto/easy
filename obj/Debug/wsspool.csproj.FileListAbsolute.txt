@@ -1,0 +1,4 @@
+c:\users\acer\documents\visual studio 2010\Projects\wsspool\wsspool\bin\wsspool.dll
+c:\users\acer\documents\visual studio 2010\Projects\wsspool\wsspool\bin\wsspool.pdb
+c:\users\acer\documents\visual studio 2010\Projects\wsspool\wsspool\obj\Debug\wsspool.dll
+c:\users\acer\documents\visual studio 2010\Projects\wsspool\wsspool\obj\Debug\wsspool.pdb
